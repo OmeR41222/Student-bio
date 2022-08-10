@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header {
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+
+}
+ #aside img{
+    float: left;
+    margin-right: 10px;
+    
+ }
+ aside {
+    width: 60%;
+    float: left;
+    margin: 20px 0 0 20px;
+ }
+ h2 {
+    padding-bottom: 5px;
+ }
+
+ #section{
+    float : right ;
+    width: 30%;
+    margin: 20px ;
+ }
